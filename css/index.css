@@ -159,4 +159,7 @@ body{
 	font-size: .22rem;
 	color: #818181;
 }
+.top_wenzi2,#top_wenzi2 h1,#top_wenzi2 h2{
+	color: red;
+}
 
